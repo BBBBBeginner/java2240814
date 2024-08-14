@@ -1,0 +1,20 @@
+package ch02.lectucre.variable;
+
+public class C05Character {
+    public static void main(String[] args) {
+        //char (2byte)
+        // 문자 하나 (작은 따옴표 사용)
+        // unicode
+        char a = 'a';
+        char b = '가';
+        char c = '한';
+        char d = '8';
+//            char e = 'gk';
+        char g = 45206;
+        System.out.println("g = " + g);
+
+        char h = 3743;
+        System.out.println("h");
+
+    }
+}
