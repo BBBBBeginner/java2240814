@@ -10,13 +10,17 @@ public class C02Print {
         System.out.print("반갑습니다.");
         System.out.print("월요일이네요.");
 
-        // printf : 형식(format)에 맞춰서 출력
+//-------------formatting----------------------------------------------------------
+
+        // printf : 형식(format)에 맞춰서 출력 // 포멧 설정 대입 %s 사용
         System.out.printf("안녕");
         System.out.println();
         System.out.printf("이름은 %s", "손흥민");
         System.out.println();
         System.out.printf("이름은 %s", "손흥민");
         System.out.println();
+        String name = "헤용";
+        System.out.printf("이름은 %s\n", name);
 
         String f = "이름은 %s";
         String name1 = "이정후";
