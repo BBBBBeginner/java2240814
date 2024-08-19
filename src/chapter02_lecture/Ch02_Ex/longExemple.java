@@ -1,4 +1,4 @@
-package ch02.lectucre.variable.Ch02;
+package chapter02_lecture.Ch02_Ex;
 
 public class longExemple {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package ch02.lectucre.variable;
-
-import java.sql.SQLOutput;
+package chapter02_lecture.CH2;
 
 public class C01Type {
     public static void main(String[] args) {
@@ -20,7 +18,7 @@ public class C01Type {
 
         //2. reference type 개수 무한대 (참조타입)
         //  primitive type 빼고 모두
-            // 정수형 (byte(8bit = 1byte), short(2), int(4), long(8))
+        // 정수형 (byte(8bit = 1byte), short(2), int(4), long(8))
 
         byte b1;
         b1 = 127;

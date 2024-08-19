@@ -1,7 +1,7 @@
-package ch02.lectucre.variable;
+package chapter02_lecture.CH2;
 
 public class c01variable {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // 한 줄 주석
         /* 여러줄 주석 */
         //ctrl + /
@@ -24,7 +24,7 @@ public class c01variable {
 
         //초기화 되지 않은 변수를 사용할 수 없음.
 //        int b = 0;
-        b=3;
+        b = 3;
         System.out.println(b);
 
         // #정수를 담을 수 있는 c 변수를 선언하고

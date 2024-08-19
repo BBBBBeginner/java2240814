@@ -1,4 +1,4 @@
-package ch02.lectucre.variable;
+package chapter02_lecture.CH2;
 
 public class c02variable {
     public static void main(String[] args) {

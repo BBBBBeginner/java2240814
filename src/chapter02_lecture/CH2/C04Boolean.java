@@ -1,4 +1,4 @@
-package ch02.lectucre.variable;
+package chapter02_lecture.CH2;
 
 public class C04Boolean {
     public static void main(String[] args) {
@@ -9,8 +9,6 @@ public class C04Boolean {
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
-
-
 
 
         if (a) {

@@ -1,4 +1,4 @@
-package ch02.lectucre.variable.Ch02;
+package chapter02_lecture.Ch02_Ex;
 
 public class CharExample {
     public static void main(String[] args) {
@@ -12,5 +12,7 @@ public class CharExample {
         System.out.println(c2);
         System.out.println(c3);
         System.out.println(c4);
+
+
     }
 }
