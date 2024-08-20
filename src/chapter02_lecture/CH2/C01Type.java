@@ -28,7 +28,7 @@ public class C01Type {
         int v1 = 21345678;
         System.out.println("v1 = + v1");
 
-        System.out.println(v1 + 1);
+        System.out.println(v1 + 1);//21345679
 
         // long (8byte)
         //4byte 이상의 수 작성 시 끝에 L 붙이기
