@@ -1,0 +1,18 @@
+package ch03_lecture.p05Priorty;
+
+public class C01Priority {
+    public static void main(String[] args) {
+        // 연산자 우선순위
+        // 책 107쪽
+
+        int a = 3 + 5 * 2;
+
+        System.out.println("a =" + a);
+
+        //()로 먼저 연산되는 부분을 감싸기
+        int b = (3 + 5) * 2;
+
+        System.out.println("b =" + b);
+
+    }
+}
