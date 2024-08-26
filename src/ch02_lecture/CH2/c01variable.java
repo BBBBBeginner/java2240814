@@ -27,7 +27,7 @@ public class c01variable {
         b = 3;
         System.out.println(b);
 
-        // #정수를 담을 수 있는 c 변수를 선언하고
+        // #정수를 담을 수 있는 ch05_lecture.p01Array.a.c 변수를 선언하고
         // c에 100을 넣고
         // 출력하기
 

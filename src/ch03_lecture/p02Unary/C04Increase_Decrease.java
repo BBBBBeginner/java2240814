@@ -7,7 +7,7 @@ public class C04Increase_Decrease {
         System.out.println("a = " + a); //11
 
         int c = a++; // 사용 후 더함
-        System.out.println("c =" + c); //11
+        System.out.println("ch05_lecture.p01Array.a.c =" + c); //11
         System.out.println("a =" + a); //12
 
         int d = ++a; // 더한 후 사용

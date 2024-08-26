@@ -19,7 +19,7 @@ public class C03Array {
 
         System.out.println("a[2] =" + a[2]);
         System.out.println("b[1] =" + b[1]);
-        System.out.println("c[3] =" + c[3]);
+        System.out.println("ch05_lecture.p01Array.a.c[3] =" + c[3]);
         System.out.println("d[2] =" + d[2]);
     }
 }

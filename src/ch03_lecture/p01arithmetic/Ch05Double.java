@@ -5,7 +5,7 @@ public class Ch05Double {
         double a = 0.1;
         double b = 0.2;
         double c = a + b;
-        System.out.println("c = " + c);
+        System.out.println("ch05_lecture.p01Array.a.c = " + c);
 
     }
 }

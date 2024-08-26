@@ -16,7 +16,7 @@ public class C01TypeConversion {
 
         // 강제 형변환: 매우 주의해서 사용해야 함
         short c = (short) a; // 강제 형변환, 값 손실 위험 있음
-        System.out.println("c = " + c);
+        System.out.println("ch05_lecture.p01Array.a.c = " + c);
 
         int d = 2_100_000_000;
         short e = (short) d; // 강제 형변환, 값 손실 발생

@@ -15,7 +15,7 @@ public class C02Assignment {
 
         int c = 10;
         int d = 3;
-        c -= d; // c = c-d
+        c -= d; // ch05_lecture.p01Array.a.c = ch05_lecture.p01Array.a.c-d
 
         int e = 10;
         int f = 3;

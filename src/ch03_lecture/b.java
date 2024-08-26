@@ -29,10 +29,10 @@ public class b {
 
 //        int a = 3;
 //        double b = 0;
-//        double c = a / b;
+//        double ch05_lecture.p01Array.a.c = a / b;
 ////        System.out.println(a / b);
 //
-//        if (Double.isInfinite(c) || Double.isNaN(c)) {
+//        if (Double.isInfinite(ch05_lecture.p01Array.a.c) || Double.isNaN(ch05_lecture.p01Array.a.c)) {
 //            System.out.println(" 노 답 ");
 //        } else {
 //            System.out.println("ok");

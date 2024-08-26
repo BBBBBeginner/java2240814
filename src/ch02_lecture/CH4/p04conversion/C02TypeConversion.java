@@ -11,7 +11,7 @@ public class C02TypeConversion {
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
-        System.out.println("c = " + c);
+        System.out.println("ch05_lecture.p01Array.a.c = " + c);
         System.out.println("d = " + d);
     }
 }

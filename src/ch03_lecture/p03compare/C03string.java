@@ -17,10 +17,10 @@ public class C03string {
         String e = "ml";
         String f = d + e;
 
-        System.out.println("c = " + c);
+        System.out.println("ch05_lecture.p01Array.a.c = " + c);
         System.out.println("f = " + f);
 
-//        System.out.println(c == f); //쓰면 안됨!
+//        System.out.println(ch05_lecture.p01Array.a.c == f); //쓰면 안됨!
         System.out.println(c.equals(f));
 
     }

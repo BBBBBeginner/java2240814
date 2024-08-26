@@ -12,7 +12,7 @@ public class C05Shortcut_or {
         int c = 5;
         int d = 5;
         System.out.println((c++) > 0 | (d++) < 0);
-        System.out.println("c =" + c);
+        System.out.println("ch05_lecture.p01Array.a.c =" + c);
         System.out.println("d =" + d);
     }
 }

@@ -9,7 +9,7 @@ public class C04TypeConversion {
         System.out.println("b =" + b);
 
         long c = b;
-        System.out.println("c" + c);
+        System.out.println("ch05_lecture.p01Array.a.c" + c);
 
         a = (char) b;// 자동형변환 x, 강제형변환
         System.out.println("a" + a);

@@ -1,0 +1,13 @@
+package ch05_lecture.p01Array.p04String;
+
+public class C08Replace {
+    public static void main(String[] args) {
+        //replace: 부분 무자열을 다른 문자열로 교체
+        // 원본은 바뀌지 않음
+        String s = "java programming languge, python language";
+        String t = s.replace("language", "언어");
+
+        System.out.println(s);
+        System.out.println(t);
+    }
+}

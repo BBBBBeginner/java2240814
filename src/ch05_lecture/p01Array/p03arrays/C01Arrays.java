@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class C01Arrays {
     public static void main(String[] args) {
-        //Arrays : 배열에 관련된 유용한 메소드들이
+        //Arrays : 배열에 관련된 유용한 메소드들
 
         // toString
         int[] a = {5, 6, 7};

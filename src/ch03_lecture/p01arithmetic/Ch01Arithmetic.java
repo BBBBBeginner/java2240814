@@ -23,7 +23,7 @@ public class Ch01Arithmetic {
         System.out.println(a % b);
 
         int c = a * b;
-        System.out.println("c = " + c);
+        System.out.println("ch05_lecture.p01Array.a.c = " + c);
 
 
     }

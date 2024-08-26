@@ -40,7 +40,7 @@ public class Ch06Double {
         // -0.0
         double c = 0.0;
         double d = -0.0;
-        System.out.println("c =" + c);
+        System.out.println("ch05_lecture.p01Array.a.c =" + c);
         System.out.println("d = " + d);
 
         System.out.println(3 / c); //infinity

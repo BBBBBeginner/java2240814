@@ -16,7 +16,7 @@ public class C09SwitchExpresssion {
             case "B", "b" -> {
                 message = "보통 등급";
             }
-            case "C", "c" -> {
+            case "C", "ch05_lecture.p01Array.a.c" -> {
                 message = "등급 미만";
             }
         }

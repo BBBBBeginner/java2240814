@@ -15,7 +15,7 @@ public class C04Shortcircuit {
         boolean d = ((b++) < 0) && ((c++) < 0); //false
 
         System.out.println("b =" + b);
-        System.out.println("c =" + c);
+        System.out.println("ch05_lecture.p01Array.a.c =" + c);
 
         int e = 5;
         int f = 5;

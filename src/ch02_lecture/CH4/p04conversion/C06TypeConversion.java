@@ -7,7 +7,7 @@ public class C06TypeConversion {
         byte a = 3;
         byte b = 5;
         byte c = (byte) (a + b);
-        System.out.println("c = " + c);
+        System.out.println("ch05_lecture.p01Array.a.c = " + c);
 
         //정수 끼리의 연산 결과는 정수
         int d = 5;

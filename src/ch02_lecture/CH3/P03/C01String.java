@@ -8,7 +8,7 @@ public class C01String {
 
         // String : 여러 문자들(문자열) 을 저장하느 타입
         String c = "가나";//큰 따옴표 사용
-        System.out.println("c =" + c);
+        System.out.println("ch05_lecture.p01Array.a.c =" + c);
 
         String d = "It's good";
         System.out.println("d =" + d);

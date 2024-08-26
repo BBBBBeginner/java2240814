@@ -9,7 +9,7 @@ public class C04string {
 
         String c = b + a;
 
-        System.out.println("c =" + c);
+        System.out.println("ch05_lecture.p01Array.a.c =" + c);
 
         String d = "3";
         String f = d + c;

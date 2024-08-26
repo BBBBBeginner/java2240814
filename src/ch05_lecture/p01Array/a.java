@@ -9,4 +9,7 @@ public class a {
         System.out.println(Arrays.toString(a));
         System.out.println(Arrays.deepToString(b));
     }
+
+    public static class c {
+    }
 }

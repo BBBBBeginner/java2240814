@@ -8,7 +8,7 @@ public class C03Double {
         double b = 0.2; //0.2의 근사값
         double c = a + b; // = 0.30000000000000000000000004 나옴
 
-        System.out.println("c =" + c);
+        System.out.println("ch05_lecture.p01Array.a.c =" + c);
 
         BigDecimal d = new BigDecimal("0.1");
         BigDecimal e = new BigDecimal("0.2");

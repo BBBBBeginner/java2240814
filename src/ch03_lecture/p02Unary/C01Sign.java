@@ -8,6 +8,6 @@ public class C01Sign {
         System.out.println("b = " + b);
 
         int c = -b;
-        System.out.println("c = " + c);
+        System.out.println("ch05_lecture.p01Array.a.c = " + c);
     }
 }

@@ -22,7 +22,7 @@ public class C07TextBlock {
                 동해물과 백두산이
                         마르고 닳도록
                 """;
-        System.out.println("c =" + c);
+        System.out.println("ch05_lecture.p01Array.a.c =" + c);
 
         // "
         String html1 = "<html>\n" +
