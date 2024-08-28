@@ -14,7 +14,7 @@ public class C08Varargs {
 
         System.out.println();
         o.method3();
-        o.method3(6, 7, 8);
+        o.method3("qrk", 7, 8);
         o.method3(10, 20, 30, 40, 50);
     }
 }
@@ -38,6 +38,13 @@ class MyClass08 {
 
     public void method3(int... a) {
         // a를 배열로 사용 가능
+        System.out.println("a.length = " + a.length);
+        System.out.println(Arrays.toString(a));
+    }
+
+    public void method3(String n, int... a) {
+        // varargs 를 다른 타입과 섞어 쓸 땐 가장 마지막에 작성
+        System.out.println(n);
         System.out.println("a.length = " + a.length);
         System.out.println(Arrays.toString(a));
     }

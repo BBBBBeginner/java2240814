@@ -1,4 +1,4 @@
-package p06_lecture.lecture.CheckOut;
+package p06_lecture.CheckOut._13;
 
 public class MemberService {
     boolean login(String id, String password) {
