@@ -1,4 +1,4 @@
-package p06_lecture.CheckOut._20;
+package ch06.CheckOut._20;
 
 public class Account {
 

@@ -1,4 +1,4 @@
-package p06_lecture.ChecjOut_19;
+package ch06.ChecjOut_19;
 
 public class Account {
     //balance = - x
