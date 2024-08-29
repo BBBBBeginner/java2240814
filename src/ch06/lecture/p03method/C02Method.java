@@ -1,4 +1,4 @@
-package p06_lecture.lecture.p03method;
+package ch06.lecture.p03method;
 
 public class C02Method {
     public static void main(String[] args) {
