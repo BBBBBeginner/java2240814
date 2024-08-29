@@ -14,72 +14,25 @@ class MyClass02 {
     private boolean married;
     private boolean enabled;
 
-    public int getAge() {
-        return age;
-    }
-
     public void setAge(int age) {
         this.age = age;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getEmail() {
-        return email;
+    public int getAge() {
+        return age;
     }
 
     public void setEmail(String email) {
         this.email = email;
     }
 
-    public String getAddress() {
-        return address;
-    }
 
-    public void setAddress(String address) {
-        this.address = address;
-    }
-
-    public boolean isMarried() {
-        return married;
-    }
-
-    public void setMarried(boolean married) {
+    //boolean 의 getter 메소드는 is 로 시작
+    public void isMarried(boolean married) {
         this.married = married;
     }
 
     public boolean isEnabled() {
         return enabled;
     }
-
-    public void setEnabled(boolean enabled) {
-        this.enabled = enabled;
-    }
-    //    public void setAge(int age) {
-//        this.age = age;
-//    }
-//
-//    public int getAge() {
-//        return age;
-//    }
-//
-//    public void setEmail(String email) {
-//        this.email = email;
-//    }
-//
-//
-//    //boolean 의 getter 메소드는 is 로 시작
-//    public void isMarried(boolean married) {
-//        this.married = married;
-//    }
-//
-//    public boolean isEnabled() {
-//        return enabled;
-//    }
 }
