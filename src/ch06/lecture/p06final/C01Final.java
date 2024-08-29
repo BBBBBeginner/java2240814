@@ -1,4 +1,4 @@
-package p06_lecture.lecture.p06final;
+package ch06.lecture.p06final;
 
 public class C01Final {
 

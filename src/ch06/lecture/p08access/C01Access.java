@@ -1,4 +1,4 @@
-package p06_lecture.lecture.p08access;
+package ch06.lecture.p08access;
 
 public class C01Access {
     public static void main(String[] args) {

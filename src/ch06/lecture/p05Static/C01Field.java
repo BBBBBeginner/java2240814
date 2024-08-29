@@ -1,4 +1,4 @@
-package p06_lecture.lecture.p05Static;
+package ch06.lecture.p05Static;
 
 public class C01Field {
     public static void main(String[] args) {

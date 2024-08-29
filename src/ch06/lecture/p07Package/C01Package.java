@@ -1,6 +1,6 @@
-package p06_lecture.lecture.p07Package;
+package ch06.lecture.p07Package;
 
-import p06_lecture.lecture.p07Package.package1.myClass01;
+import ch06.lecture.p07Package.package1.myClass01;
 
 public class C01Package {
     public static void main(String[] args) {

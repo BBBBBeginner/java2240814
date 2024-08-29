@@ -1,4 +1,4 @@
-package p06_lecture.lecture.p09encapsulation;
+package ch06.lecture.p09encapsulation;
 
 public class C01Encapsulation {
     public static void main(String[] args) {

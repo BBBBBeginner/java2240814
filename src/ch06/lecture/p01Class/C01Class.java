@@ -1,4 +1,4 @@
-package p06_lecture.lecture.p01Class;
+package ch06.lecture.p01Class;
 
 public class C01Class {
     public static void main(String[] args) {
