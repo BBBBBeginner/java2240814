@@ -1,4 +1,4 @@
-package Ch04_lecture.p05_ex;
+package ch04_lecture.p05_ex;
 
 public class BreakExample {
     public static void main(String[] args) {
