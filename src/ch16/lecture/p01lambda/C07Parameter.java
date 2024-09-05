@@ -7,6 +7,7 @@ public class C07Parameter {
     }
 }
 
+
 @FunctionalInterface
 interface MyInterface7 {
     void print();
