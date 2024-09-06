@@ -15,6 +15,7 @@ public class C07Wrapper {
         c[0] = Integer.valueOf(300);
         c[1] = 500;
 
+
         Double[] d = new Double[3];
         d[0] = 3.14;
 //        d[1] = 1;
