@@ -1,4 +1,4 @@
-package leetcode.pPaskal;
+package leetcode.L15_LIst.pPascal;
 
 import java.util.ArrayList;
 import java.util.List;
