@@ -1,4 +1,4 @@
-package leetcode.p1431;
+package leetcode.L15_LIst.p1431;
 
 import java.util.ArrayList;
 import java.util.Arrays;
