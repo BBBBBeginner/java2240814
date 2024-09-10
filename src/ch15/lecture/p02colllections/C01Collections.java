@@ -37,6 +37,5 @@ public class C01Collections {
         String min = Collections.min(list);
         System.out.println("min = " + min);
 
-        
     }
 }
