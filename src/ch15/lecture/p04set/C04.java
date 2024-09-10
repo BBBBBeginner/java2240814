@@ -19,7 +19,6 @@ public class C04 {
         int size = set.size();
         System.out.println("size = " + size);
 
-
     }
 }
 
