@@ -6,7 +6,7 @@ import java.util.List;
 public class C01List {
     public static void main(String[] args) {
 
-        // List : 요소(element)의 순서가 있는 컬렉션, element 저장
+        // List : 구성요소(element)의 순서가 있는 컬렉션, element 저장
         List<String> List = new ArrayList<>();
 
         // element 주요 기능
