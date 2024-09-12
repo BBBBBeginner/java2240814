@@ -15,6 +15,7 @@ public class C01Stack {
         stack.push("sql");
         stack.push("css");
 
+        // element 꺼내기
         // pop : 원소 꺼내기
         String item1 = stack.pop();
         System.out.println("item1 = " + item1);
@@ -22,7 +23,6 @@ public class C01Stack {
         System.out.println("item2 = " + item2);
 
 
-        // element 꺼내기
         // size : 원소 수
         int size = stack.size();
         System.out.println("size = " + size);
