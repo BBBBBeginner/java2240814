@@ -1,4 +1,4 @@
-package ch02_lecture.CH04_Ex;
+package ch02.sec09;
 
 public class OperationPromotionExample {
     public static void main(String[] args) {
