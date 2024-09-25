@@ -1,6 +1,6 @@
-package ch02_lecture.Ch02_Ex;
+package ch02.sec02;
 
-public class longExemple {
+public class LongExemple {
     public static void main(String[] args) {
         byte var1 = -128;
         byte var2 = -30;
