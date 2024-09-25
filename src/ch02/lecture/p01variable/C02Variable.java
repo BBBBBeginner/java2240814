@@ -1,6 +1,6 @@
-package ch02_lecture.CH2;
+package ch02.lecture.p01variable;
 
-public class c02variable {
+public class C02Variable {
     public static void main(String[] args) {
         // 변수명 작성 관습(관습 상 안됨)
         // 소문자

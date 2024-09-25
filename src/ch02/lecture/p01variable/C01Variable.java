@@ -1,6 +1,6 @@
-package ch02_lecture.CH2;
+package ch02.lecture.p01variable;
 
-public class c01variable {
+public class C01Variable {
     public static void main(String[] args) {
         // 한 줄 주석
         /* 여러줄 주석 */
