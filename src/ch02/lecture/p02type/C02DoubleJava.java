@@ -1,6 +1,6 @@
-package ch02_lecture.CH2;
+package ch02.lecture.p02type;
 
-public class Co2DoubleJava {
+public class C02DoubleJava {
     public static void main(String[] args) {
         double b = 3.14;
         System.out.println(b);
