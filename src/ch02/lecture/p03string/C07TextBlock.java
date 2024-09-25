@@ -1,4 +1,4 @@
-package ch02_lecture.CH3.P03;
+package ch02.lecture.p03string;
 
 public class C07TextBlock {
     public static void main(String[] args) {
