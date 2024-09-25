@@ -1,6 +1,6 @@
-package ch02_lecture.CH4.p04conversion;
+package ch02.lecture.p04conversion;
 
-public class p04Conversion {
+public class C09Var {
     public static void main(String[] args) {
         //키워드는 변수형(심볼)로 사용 불가
 
