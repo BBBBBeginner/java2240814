@@ -1,6 +1,6 @@
-package ch02_lecture.CH3_EX.p03예제;
+package ch02.sec10;
 
-public class _67p {
+public class PrimitiveAndstringConversionExample {
     public static void main(String[] args) {
         int value1 = Integer.parseInt("10");
         double value2 = Double.parseDouble("3.14");
