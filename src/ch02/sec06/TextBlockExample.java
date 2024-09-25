@@ -1,6 +1,6 @@
-package ch02_lecture.CH3_EX.p03예제;
+package ch02.sec06;
 
-public class _53p {
+public class TextBlockExample {
     public static void main(String[] args) {
         String str1 = "" +
                 "\n" +
