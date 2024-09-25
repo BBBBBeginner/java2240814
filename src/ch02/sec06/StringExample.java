@@ -1,6 +1,6 @@
-package ch02_lecture.CH3_EX.p03예제;
+package ch02.sec06;
 
-public class _52p예제 {
+public class StringExample {
     public static void main(String[] args) {
         String name = "홍길동";
         String job = "프로그래머";
