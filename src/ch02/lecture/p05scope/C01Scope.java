@@ -1,4 +1,4 @@
-package ch02_lecture.Ch05;
+package ch02.lecture.p05scope;
 
 public class C01Scope {
     public static void main(String[] args) {
