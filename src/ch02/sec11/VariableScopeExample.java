@@ -1,4 +1,4 @@
-package ch02_lecture.Ch05_Ex;
+package ch02.sec11;
 
 public class VariableScopeExample {
     public static void main(String[] args) {
