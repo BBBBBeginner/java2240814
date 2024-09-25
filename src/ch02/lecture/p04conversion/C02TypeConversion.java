@@ -1,4 +1,4 @@
-package ch02_lecture.CH4.p04conversion;
+package ch02.lecture.p04conversion;
 
 public class C02TypeConversion {
     public static void main(String[] args) {
