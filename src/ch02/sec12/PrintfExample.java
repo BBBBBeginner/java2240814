@@ -1,6 +1,6 @@
-package ch02_lecture.CH3_EX.p03예제;
+package ch02.sec12;
 
-public class _71p예제 {
+public class PrintfExample {
     public static void main(String[] args) {
         int value = 123;
         System.out.printf("상품의 가격 :%d원\n", value);
