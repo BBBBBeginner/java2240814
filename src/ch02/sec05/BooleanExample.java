@@ -1,4 +1,4 @@
-package ch02_lecture.Ch02_Ex;
+package ch02.sec05;
 
 public class BooleanExample {
     public static void main(String[] args) {
