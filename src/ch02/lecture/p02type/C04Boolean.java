@@ -1,4 +1,4 @@
-package ch02_lecture.CH2;
+package ch02.lecture.p02type;
 
 public class C04Boolean {
     public static void main(String[] args) {
