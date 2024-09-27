@@ -1,4 +1,4 @@
-package ch03_lecture.p01_ex;
+package ch03.sec05;
 
 public class InfinityAndNaNCheck_89 {
     public static void main(String[] args) {
