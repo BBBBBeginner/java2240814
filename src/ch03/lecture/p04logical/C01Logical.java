@@ -1,4 +1,4 @@
-package ch03_lecture.p04Logical;
+package ch03.lecture.p04logical;
 
 public class C01Logical {
     public static void main(String[] args) {

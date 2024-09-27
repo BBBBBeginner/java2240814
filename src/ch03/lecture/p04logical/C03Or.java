@@ -1,4 +1,4 @@
-package ch03_lecture.p04Logical;
+package ch03.lecture.p04logical;
 
 import java.util.Scanner;
 
