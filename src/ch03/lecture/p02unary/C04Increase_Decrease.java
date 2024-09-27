@@ -1,4 +1,4 @@
-package ch03_lecture.p02Unary;
+package ch03.lecture.p02unary;
 
 public class C04Increase_Decrease {
     public static void main(String[] args) {
