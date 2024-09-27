@@ -1,4 +1,4 @@
-package ch03_lecture.p05Priorty;
+package ch03.lecture.p05priority;
 
 public class C01Priority {
     public static void main(String[] args) {
