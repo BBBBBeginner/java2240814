@@ -1,4 +1,4 @@
-package ch03_lecture.p03compare;
+package ch03.lecture.p03compare;
 
 public class C02Double {
     public static void main(String[] args) {
