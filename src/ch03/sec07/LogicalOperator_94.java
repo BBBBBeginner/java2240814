@@ -1,4 +1,4 @@
-package ch03_lecture.p04_ex;
+package ch03.sec07;
 
 public class LogicalOperator_94 {
     public static void main(String[] args) {
