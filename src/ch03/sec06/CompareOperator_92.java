@@ -1,4 +1,4 @@
-package ch03_lecture.p03_ex;
+package ch03.sec06;
 
 public class CompareOperator_92 {
     public static void main(String[] args) {
