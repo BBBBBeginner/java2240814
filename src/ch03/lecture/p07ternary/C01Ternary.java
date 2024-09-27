@@ -1,8 +1,8 @@
-package ch03_lecture.p07ConditionalOperation;
+package ch03.lecture.p07ternary;
 
 import java.util.Scanner;
 
-public class Ch01ConditionalOperation {
+public class C01Ternary {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // 삼항연산자
