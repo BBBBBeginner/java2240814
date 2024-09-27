@@ -1,4 +1,4 @@
-package ch03_lecture.p07_ex;
+package ch03.sec11;
 
 import java.util.Scanner;
 
