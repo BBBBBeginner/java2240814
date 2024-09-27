@@ -1,4 +1,4 @@
-package ch03_lecture.p06Assignment;
+package ch03.lecture.p06assignment;
 
 public class C01Assignment {
     public static void main(String[] args) {
