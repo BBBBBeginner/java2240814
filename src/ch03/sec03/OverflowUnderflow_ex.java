@@ -1,4 +1,4 @@
-package ch03_lecture.p01_ex;
+package ch03.sec03;
 
 public class OverflowUnderflow_ex {
     public static void main(String[] args) {
