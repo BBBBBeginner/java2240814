@@ -1,4 +1,4 @@
-package ch03_lecture.p02_ex;
+package ch03.sec01;
 
 public class IncreaseDecreaseOperator_82 {
     public static void main(String[] args) {
