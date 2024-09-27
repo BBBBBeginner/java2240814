@@ -1,4 +1,4 @@
-package ch03_lecture.p01_ex;
+package ch03.sec02;
 
 public class Arihmetic0perator_84 {
     public static void main(String[] args) {
