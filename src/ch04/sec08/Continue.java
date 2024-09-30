@@ -1,12 +1,13 @@
-package ch04_lecture.p05_ex;
+package ch04.sec08;
 
-public class continue_139 {
+public class Continue {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
-            if (i % 2 != 0) {
+            if (i % 2 == 0) {
                 continue;
             }
-            System.out.println(i);
+
+            System.out.print(i + " ");
         }
     }
 }
