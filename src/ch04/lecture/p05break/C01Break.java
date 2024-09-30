@@ -1,4 +1,4 @@
-package ch04_lecture.p05break;
+package ch04.lecture.p05break;
 
 public class C01Break {
     public static void main(String[] args) {
