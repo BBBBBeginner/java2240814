@@ -1,4 +1,4 @@
-package ch04_lecture.p02Switch;
+package ch04.lecture.p02switch;
 
 public class C08Break {
     public static void main(String[] args) {
