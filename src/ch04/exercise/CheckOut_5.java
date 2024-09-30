@@ -1,4 +1,4 @@
-package ch04_lecture;
+package ch04.exercise;
 
 public class CheckOut_5 {
     public static void main(String[] args) {
