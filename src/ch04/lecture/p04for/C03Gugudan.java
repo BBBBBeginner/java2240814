@@ -1,4 +1,4 @@
-package ch04_lecture.p04For;
+package ch04.lecture.p04for;
 
 public class C03Gugudan {
     public static void main(String[] args) {
