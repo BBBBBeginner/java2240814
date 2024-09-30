@@ -1,4 +1,4 @@
-package ch04_lecture;
+package ch04.sec05;
 
 import java.util.Scanner;
 
