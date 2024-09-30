@@ -1,4 +1,4 @@
-package ch04_lecture.p01_ex;
+package ch04.sec02;
 
 public class IfDice_118 {
     public static void main(String[] args) {

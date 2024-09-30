@@ -1,4 +1,4 @@
-package ch04_lecture.p01_ex;
+package ch04.sec02;
 
 public class IfNested_119 {
     public static void main(String[] args) {
