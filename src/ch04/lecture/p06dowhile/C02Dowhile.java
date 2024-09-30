@@ -1,4 +1,4 @@
-package ch04_lecture.p06DoWhile;
+package ch04.lecture.p06dowhile;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ch04_lecture.p06DoWhile;
+package ch04.lecture.p06dowhile;
 
 public class C01DoWhile {
     public static void main(String[] args) {
