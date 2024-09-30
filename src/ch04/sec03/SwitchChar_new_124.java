@@ -1,4 +1,4 @@
-package ch04_lecture.p02_ex;
+package ch04.sec03;
 
 public class SwitchChar_new_124 {
     public static void main(String[] args) {
