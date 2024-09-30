@@ -1,4 +1,4 @@
-package ch04_lecture.p03while;
+package ch04.lecture.p03while;
 
 public class C02While {
     public static void main(String[] args) {
