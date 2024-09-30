@@ -1,4 +1,4 @@
-package ch04_lecture.p01If;
+package ch04.lecture.p01if;
 
 public class C03Nested {
     public static void main(String[] args) {
