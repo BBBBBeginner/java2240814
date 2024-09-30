@@ -1,4 +1,4 @@
-package ch04_lecture.p02Switch;
+package ch04.lecture.p02switch;
 
 public class C11SwitchExpression {
     public static void main(String[] args) {
