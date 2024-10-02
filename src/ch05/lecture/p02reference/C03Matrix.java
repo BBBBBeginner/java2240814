@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p02Reference;
+package ch05.lecture.p02reference;
 
 import java.util.Arrays;
 
@@ -22,6 +22,11 @@ public class C03Matrix {
 
         m1[2][0] = 99;
         m1[2][1] = 1010;
+
+        System.out.println("m1.length = " + m1.length);
+        System.out.println("m1[0].length = " + m1[0].length);
+        System.out.println("m1[1].length = " + m1[1].length);
+        System.out.println("m1[2].length = " + m1[2].length);
 
         int[] arr = {3, 6, 9};
         System.out.println("Arrays.toString = " + Arrays.toString((m1[0])));
