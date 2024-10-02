@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p02_ex;
+package ch05.sec03;
 
 public class ReferenceVariableCompare {
     public static void main(String[] args) {
