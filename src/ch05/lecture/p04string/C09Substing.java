@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p04String;
+package ch05.lecture.p04string;
 
 public class C09Substing {
     public static void main(String[] args) {
@@ -17,6 +17,6 @@ public class C09Substing {
         System.out.println("s2 =" + s2);
         System.out.println("s3 =" + s3);
 
-        
+
     }
 }
