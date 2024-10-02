@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p04_ex;
+package ch05.sec05;
 
 public class SubStringExample {
     public static void main(String[] args) {
