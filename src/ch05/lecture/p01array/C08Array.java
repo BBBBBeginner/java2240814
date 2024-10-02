@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p01Array;
+package ch05.lecture.p01array;
 
 public class C08Array {
     public static void main(String[] args) {
