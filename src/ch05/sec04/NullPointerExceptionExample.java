@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p05_ex;
+package ch05.sec04;
 
 public class NullPointerExceptionExample {
     public static void main(String[] args) {
