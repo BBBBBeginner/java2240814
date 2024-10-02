@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p01Enum;
+package ch05.lecture.p06enum;
 
 public class C01Enum {
     public static void main(String[] args) {
