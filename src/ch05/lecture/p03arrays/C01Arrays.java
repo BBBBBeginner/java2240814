@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p03arrays;
+package ch05.lecture.p03arrays;
 
 import java.util.Arrays;
 
