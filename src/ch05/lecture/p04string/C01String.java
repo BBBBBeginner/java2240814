@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p04String;
+package ch05.lecture.p04string;
 
 public class C01String {
     public static void main(String[] args) {
