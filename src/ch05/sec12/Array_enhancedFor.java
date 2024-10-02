@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p01_ex;
+package ch05.sec12;
 
 public class Array_enhancedFor {
     public static void main(String[] args) {
