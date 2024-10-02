@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p02Reference;
+package ch05.lecture.p02reference;
 
 public class C02Reference {
     public static void main(String[] args) {
