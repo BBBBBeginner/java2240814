@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p02_ex;
+package ch05.sec07;
 
 public class MultidimensionArrayByValueListExample {
     public static void main(String[] args) {
