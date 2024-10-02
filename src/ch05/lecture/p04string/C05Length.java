@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p04String;
+package ch05.lecture.p04string;
 
 public class C05Length {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class C05Length {
         String e = "ab";//4
         String f = "a b ch05_lecture.p01Array.a.c";//5
 
-        
+
         System.out.println(a.length());
         System.out.println(b.length());
         System.out.println(c.length());
