@@ -1,10 +1,10 @@
-package ch05_lecture.p01Array.p01_ex;
+package ch05.sec06;
 
 public class ArrayLength {
     public static void main(String[] args) {
         int[] scores = {84, 90, 96};
         int sum = 0;
-        
+
         for (int i = 0; i < scores.length; i++) {
             sum += scores[i];
         }

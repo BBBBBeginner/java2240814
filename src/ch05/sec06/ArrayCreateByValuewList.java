@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p01_ex;
+package ch05.sec06;
 
 public class ArrayCreateByValuewList {
     public static void main(String[] args) {
