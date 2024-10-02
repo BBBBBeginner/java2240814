@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array;
+package ch05.exercise;
 
 public class CheckOut_2 {
     public static void main(String[] args) {
