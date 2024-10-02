@@ -1,4 +1,4 @@
-package ch05_lecture.p01Array.p02_ex;
+package ch05.sec09;
 
 public class ArrayCopyByForExample {
     public static void main(String[] args) {
